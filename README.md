@@ -17,3 +17,9 @@ Scroll function using FlatList
 Delete function with styling to Android and iOS
 
 ![Delete function with styling to Android and iOS](assets/images/screenshots/Screen_Recording_2022-09-04_at_10_34_20_PM_AdobeExpress.gif)
+
+## What I learned
+
+This was a great intro to React Native. It was a good refresher for react state, and allowed me to learn some of the basic React Native components. I really enjoyed setting up the emulators as well and being able to see the app in live time. This is a phenomenal tutoral, and anyone looking to learn React Native should take it.
+
+*https://www.udemy.com/course/react-native-the-practical-guide/*
