@@ -2,6 +2,7 @@
   "name": "rncourse",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
+  "license": "lindsay tannahill",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -9,13 +10,18 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/webpack-config": "^0.17.0",
     "expo": "~46.0.9",
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
-    "react-native": "0.69.5"
+    "react-dom": "18.0.0",
+    "react-native": "0.69.5",
+    "react-native-web": "~0.18.7"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "eslint": "^8.7.0",
+    "prettier": "^2.5.1"
   },
   "private": true
 }
